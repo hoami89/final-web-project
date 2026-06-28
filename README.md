@@ -78,7 +78,7 @@ final-web-project/
 
 ## Link Sản Phẩm
 
-- 🔗 **GitHub Repository:** _(dán link vào đây)_
-- 🌐 **GitHub Pages:** _(dán link vào đây)_
+- 🔗 **GitHub Repository:** https://github.com/hoami89/final-web-project
+- 🌐 **GitHub Pages:** https://hoami89.github.io/final-web-project/
 
 
